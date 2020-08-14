@@ -24,7 +24,7 @@ Everytime when I start a project, I need to record many things, including method
 
 This is created by the latex file in `manuscipts` folder.
 
-![latex](./exmaple.png)
+![latex](./example.png)
 
 
 This is created by the `README.md`.
