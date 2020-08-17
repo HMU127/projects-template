@@ -47,7 +47,7 @@ jobs:
           username: ${{secrets.email}}
           password: ${{secrets.emailpasswd}}
           subject: ${{github.repository}} manuscript update
-          body: file://README.md
+          body: file://readme.html
           to: ${{secrets.emailto}}
           from: Project_Updater
           content_type: text/html
